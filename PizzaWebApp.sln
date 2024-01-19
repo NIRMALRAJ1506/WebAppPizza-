@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaWebApp", "PizzaWebApp\PizzaWebApp.csproj", "{E011D450-BAE3-4DCF-86C9-FDD004F350EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaLib", "PizzaLib\PizzaLib.csproj", "{16E44EF8-2D1C-4A4E-B15A-B51839209FE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowPizza", "SpecFlowPizza\SpecFlowPizza.csproj", "{DAB75A7A-5DF2-4533-97CC-CD527FAEEDBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E011D450-BAE3-4DCF-86C9-FDD004F350EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E011D450-BAE3-4DCF-86C9-FDD004F350EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E011D450-BAE3-4DCF-86C9-FDD004F350EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E011D450-BAE3-4DCF-86C9-FDD004F350EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E44EF8-2D1C-4A4E-B15A-B51839209FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E44EF8-2D1C-4A4E-B15A-B51839209FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E44EF8-2D1C-4A4E-B15A-B51839209FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E44EF8-2D1C-4A4E-B15A-B51839209FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB75A7A-5DF2-4533-97CC-CD527FAEEDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB75A7A-5DF2-4533-97CC-CD527FAEEDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB75A7A-5DF2-4533-97CC-CD527FAEEDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB75A7A-5DF2-4533-97CC-CD527FAEEDBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5386173C-9C9D-4823-980A-E8104BA93A66}
+	EndGlobalSection
+EndGlobal
